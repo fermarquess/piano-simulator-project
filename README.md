@@ -15,6 +15,8 @@ Neste projeto explorei conceitos como:
 ![piano-simulator](https://github.com/fermarquess/piano-simulator-project/assets/100250814/5d5ef887-f962-4ff2-b41a-e9817a0a7baf)
 ![piano-simulator-1](https://github.com/fermarquess/piano-simulator-project/assets/100250814/7dab283f-e2ed-44ef-a23d-96ed11d262b6)
 
-## Experimente o simulador ✨
+## Experimente ✨
+
+ ▶️ [Piano Simulator](https://fermarquess.github.io/piano-simulator-project/)
 
 
